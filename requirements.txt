@@ -3,4 +3,3 @@ google-generativeai
 plotly
 pandas
 SpeechRecognition
-pyaudio
